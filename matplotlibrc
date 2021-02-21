@@ -1,0 +1,12 @@
+# Use latex fonts
+font.family : serif
+font.size   : 12
+figure.figsize : 6, 4
+axes.titlesize : 12
+
+savefig.bbox : tight
+figure.constrained_layout.use : true
+figure.constrained_layout.wspace : 0.01
+patch.edgecolor : none
+
+markers.fillstyle : none
