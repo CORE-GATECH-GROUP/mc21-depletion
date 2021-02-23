@@ -4,6 +4,7 @@
 |-|-|
 |Paper| ![Status: Submitted](https://img.shields.io/badge/Status-Submitted-yellow)|
 |Data| [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4554319.svg)](https://doi.org/10.5281/zenodo.4554319)|
+|License| [![BSD 3-Clause](https://img.shields.io/github/license/CORE-GATECH-GROUP/mc21-depletion)](https://github.com/CORE-GATECH-GROUP/mc21-depletion/blob/main/LICENSE.txt)|
 
 This repository contains analysis and build scripts to produce the paper 
 "Towards an Efficient and Stable Hybrid Transport-depletion Sequence
